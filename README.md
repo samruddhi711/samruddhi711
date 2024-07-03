@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Khode</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a76a24e5ac13898b4edd122abfb646130c01e55479cd2c291516d2f596bd5112/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f302a64492d6f384833693077363653704b372e676966"
+<img align ="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1WNQzWXZzRylnH0qFOEROP&ust=1720132906864000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD_1Mj4i4cDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhi711&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhi711" /> </p>
 
 - 🔭 I’m currently working on **Influencer Engagement & Sponsorship Co-ordination Platform**

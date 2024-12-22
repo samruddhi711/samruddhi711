@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Influencer Engagement & Sponsorship Co-ordination Platform**
 
-- 💬 Ask me about **Python,CPP,SQL,HTML,CSS,JavaScript**
+- 💬 Ask me about **Python,CPP,SQL,HTML,CSS**
 
 - 📫 How to reach me **samruddhikhode7@gmail.com**
 
